@@ -1,0 +1,6 @@
+{
+  "name": "Ghar The Cloud Kitchen",
+  "description": "Official website for Ghar The Cloud Kitchen in Kokapet, Hyderabad. Explore chef-crafted Biryanis, Andhra delicacies, and Indo-Chinese specialties made fresh for delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
